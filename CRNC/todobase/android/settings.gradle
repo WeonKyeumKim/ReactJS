@@ -1,0 +1,3 @@
+rootProject.name = 'todobase'
+
+include ':app'
